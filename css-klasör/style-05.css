@@ -1,0 +1,30 @@
+*{
+    font-size: small; 
+}
+
+
+p{
+text-align: initial;
+
+}
+
+
+
+.highlight{
+    font-size: 1.2rem;
+    color: aqua;
+}
+/* "." class anlamına gelir*/
+
+.center{
+    text-align: center;
+}
+
+h1.center{
+    background-color: burlywood;
+}
+
+
+.sp1{
+    color: coral;
+}
