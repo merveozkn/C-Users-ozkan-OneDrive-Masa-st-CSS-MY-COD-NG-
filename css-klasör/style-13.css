@@ -1,0 +1,22 @@
+.kutu1{
+    background-color: aqua;
+    margin: 20px;
+}
+.kutu2{
+    background-color: rgb(182, 105, 105);
+    margin: 20px;
+    padding: 10px;
+}
+.kutu3{
+    background-color: rgb(81, 116, 116);
+    margin-bottom: 20px;
+}
+.kutu4{
+        background-color: rgb(182, 105, 105);
+        margin: 20px;
+        padding: 5px 20px;
+}
+
+/* margin dış boşluk
+   padding kutunun içindeki boşluk
+   ÜST-SAĞ-ALT -SOL  bu sıraya göre ayrı ölçüler de verebilirz
